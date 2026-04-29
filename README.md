@@ -174,13 +174,6 @@ Edit `lib/core/theme/app_colors.dart` and `lib/core/theme/app_theme.dart`
 - [Riverpod Documentation](https://riverpod.dev/)
 - [Flutter Documentation](https://flutter.dev/docs)
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
