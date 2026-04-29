@@ -184,7 +184,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Bünyamin Pilsim - [@yourhandle](https://github.com/bunyaminpilsim)
+Bünyamin Pilsim - [@bunyaminpilsim](https://github.com/bunyaminpilsim)
 
 ## 🙏 Acknowledgments
 
